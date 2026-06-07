@@ -1,0 +1,272 @@
+[
+  {
+    "product_id": "P001",
+    "name": "Laptop Lenovo ThinkPad E14",
+    "category": "electronics",
+    "price": 3899.99,
+    "supplier_id": "S001",
+    "initial_stock": 24,
+    "reorder_level": 6
+  },
+  {
+    "product_id": "P002",
+    "name": "Monitor Dell 27",
+    "category": "electronics",
+    "price": 1299.0,
+    "supplier_id": "S002",
+    "initial_stock": 35,
+    "reorder_level": 8
+  },
+  {
+    "product_id": "P003",
+    "name": "Klawiatura Logitech MX Keys",
+    "category": "accessories",
+    "price": 469.99,
+    "supplier_id": "S003",
+    "initial_stock": 60,
+    "reorder_level": 12
+  },
+  {
+    "product_id": "P004",
+    "name": "Mysz Logitech MX Master 3S",
+    "category": "accessories",
+    "price": 429.0,
+    "supplier_id": "S003",
+    "initial_stock": 55,
+    "reorder_level": 10
+  },
+  {
+    "product_id": "P005",
+    "name": "Dysk SSD Samsung 1TB",
+    "category": "storage",
+    "price": 349.9,
+    "supplier_id": "S004",
+    "initial_stock": 80,
+    "reorder_level": 15
+  },
+  {
+    "product_id": "P006",
+    "name": "Router TP-Link AX55",
+    "category": "network",
+    "price": 329.0,
+    "supplier_id": "S005",
+    "initial_stock": 38,
+    "reorder_level": 9
+  },
+  {
+    "product_id": "P007",
+    "name": "Smartfon Samsung Galaxy A55",
+    "category": "mobile",
+    "price": 1899.0,
+    "supplier_id": "S006",
+    "initial_stock": 30,
+    "reorder_level": 7
+  },
+  {
+    "product_id": "P008",
+    "name": "Sluchawki Sony WH-1000XM5",
+    "category": "audio",
+    "price": 1499.0,
+    "supplier_id": "S007",
+    "initial_stock": 22,
+    "reorder_level": 5
+  },
+  {
+    "product_id": "P009",
+    "name": "Tablet Apple iPad Air 11",
+    "category": "mobile",
+    "price": 2999.0,
+    "supplier_id": "S006",
+    "initial_stock": 18,
+    "reorder_level": 5
+  },
+  {
+    "product_id": "P010",
+    "name": "Laptop Dell XPS 13",
+    "category": "electronics",
+    "price": 6299.0,
+    "supplier_id": "S002",
+    "initial_stock": 12,
+    "reorder_level": 4
+  },
+  {
+    "product_id": "P011",
+    "name": "Laptop Apple MacBook Air M3",
+    "category": "electronics",
+    "price": 5499.0,
+    "supplier_id": "S006",
+    "initial_stock": 14,
+    "reorder_level": 4
+  },
+  {
+    "product_id": "P012",
+    "name": "Monitor LG UltraWide 34",
+    "category": "electronics",
+    "price": 2199.0,
+    "supplier_id": "S002",
+    "initial_stock": 20,
+    "reorder_level": 5
+  },
+  {
+    "product_id": "P013",
+    "name": "Monitor Samsung Odyssey G5",
+    "category": "electronics",
+    "price": 1599.0,
+    "supplier_id": "S002",
+    "initial_stock": 26,
+    "reorder_level": 6
+  },
+  {
+    "product_id": "P014",
+    "name": "Stacja dokujaca Dell USB-C",
+    "category": "accessories",
+    "price": 699.0,
+    "supplier_id": "S001",
+    "initial_stock": 32,
+    "reorder_level": 8
+  },
+  {
+    "product_id": "P015",
+    "name": "Hub USB-C Anker 7w1",
+    "category": "accessories",
+    "price": 249.0,
+    "supplier_id": "S003",
+    "initial_stock": 70,
+    "reorder_level": 14
+  },
+  {
+    "product_id": "P016",
+    "name": "Kamera Logitech Brio 4K",
+    "category": "accessories",
+    "price": 899.0,
+    "supplier_id": "S003",
+    "initial_stock": 25,
+    "reorder_level": 6
+  },
+  {
+    "product_id": "P017",
+    "name": "Mikrofon Blue Yeti",
+    "category": "audio",
+    "price": 599.0,
+    "supplier_id": "S007",
+    "initial_stock": 28,
+    "reorder_level": 7
+  },
+  {
+    "product_id": "P018",
+    "name": "Glosnik JBL Charge 5",
+    "category": "audio",
+    "price": 699.0,
+    "supplier_id": "S007",
+    "initial_stock": 36,
+    "reorder_level": 8
+  },
+  {
+    "product_id": "P019",
+    "name": "Sluchawki Apple AirPods Pro 2",
+    "category": "audio",
+    "price": 1199.0,
+    "supplier_id": "S006",
+    "initial_stock": 34,
+    "reorder_level": 8
+  },
+  {
+    "product_id": "P020",
+    "name": "Dysk SSD Crucial 2TB",
+    "category": "storage",
+    "price": 579.0,
+    "supplier_id": "S004",
+    "initial_stock": 48,
+    "reorder_level": 10
+  },
+  {
+    "product_id": "P021",
+    "name": "Dysk zewnetrzny WD Elements 4TB",
+    "category": "storage",
+    "price": 499.0,
+    "supplier_id": "S004",
+    "initial_stock": 45,
+    "reorder_level": 10
+  },
+  {
+    "product_id": "P022",
+    "name": "Pendrive SanDisk Ultra 128GB",
+    "category": "storage",
+    "price": 69.0,
+    "supplier_id": "S004",
+    "initial_stock": 160,
+    "reorder_level": 30
+  },
+  {
+    "product_id": "P023",
+    "name": "Router Asus RT-AX58U",
+    "category": "network",
+    "price": 549.0,
+    "supplier_id": "S005",
+    "initial_stock": 34,
+    "reorder_level": 8
+  },
+  {
+    "product_id": "P024",
+    "name": "Switch TP-Link 8-port Gigabit",
+    "category": "network",
+    "price": 139.0,
+    "supplier_id": "S005",
+    "initial_stock": 75,
+    "reorder_level": 15
+  },
+  {
+    "product_id": "P025",
+    "name": "Access Point Ubiquiti U6 Lite",
+    "category": "network",
+    "price": 529.0,
+    "supplier_id": "S005",
+    "initial_stock": 29,
+    "reorder_level": 7
+  },
+  {
+    "product_id": "P026",
+    "name": "Smartfon Apple iPhone 15",
+    "category": "mobile",
+    "price": 3999.0,
+    "supplier_id": "S006",
+    "initial_stock": 16,
+    "reorder_level": 5
+  },
+  {
+    "product_id": "P027",
+    "name": "Smartfon Xiaomi Redmi Note 13",
+    "category": "mobile",
+    "price": 999.0,
+    "supplier_id": "S006",
+    "initial_stock": 42,
+    "reorder_level": 10
+  },
+  {
+    "product_id": "P028",
+    "name": "Drukarka HP LaserJet M110w",
+    "category": "office",
+    "price": 549.0,
+    "supplier_id": "S001",
+    "initial_stock": 24,
+    "reorder_level": 6
+  },
+  {
+    "product_id": "P029",
+    "name": "Toner HP 142A",
+    "category": "office",
+    "price": 319.0,
+    "supplier_id": "S001",
+    "initial_stock": 65,
+    "reorder_level": 14
+  },
+  {
+    "product_id": "P030",
+    "name": "Fotel biurowy Ergohuman",
+    "category": "office",
+    "price": 1899.0,
+    "supplier_id": "S001",
+    "initial_stock": 11,
+    "reorder_level": 3
+  }
+]
