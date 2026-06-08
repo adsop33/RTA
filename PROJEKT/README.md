@@ -147,7 +147,7 @@ Opcjonalnie:
 
 Aby utworzyć dashboard na żądanie zawierający dane wsadowe z obecnego momentu, w nowym terminalu:
 
-python -m reporting.generate_report
+python -m dashboard.generate_report
 
 ## Oczekiwany rezultat
 
