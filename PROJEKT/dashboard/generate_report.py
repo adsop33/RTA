@@ -74,7 +74,7 @@ def main():
                     finished[tp] = True
 
     consumer.close()
-    print(f"-> Pomyślnie zamrożono stan: {len(stock_states)} produktów w pamięci.")
+    print(f"Pomyślnie zapisano stan: {len(stock_states)} produktów.")
 
     table_rows = ""
     if stock_states:
