@@ -141,6 +141,13 @@ Aby wyświetlać wszystkie wysyłane zdarzenia, można dodać:
 ```bash
 --print-events
 ```
+### 6. Dashboard
+
+Opcjonalnie: 
+
+Aby utworzyć dashboard na żądanie zawierający dane wsadowe z obecnego momentu, w nowym terminalu:
+
+python -m reporting.generate_report
 
 ## Oczekiwany rezultat
 
